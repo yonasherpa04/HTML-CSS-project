@@ -1,1 +1,1 @@
-# HTML-CSS-project
+designed an amazon web page using html,css and js
