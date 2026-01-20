@@ -1,1 +1,1 @@
-designed an amazon web page using html,css and js
+designed an advanced  amazon web page using html,css and js.
