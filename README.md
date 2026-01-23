@@ -1,4 +1,4 @@
-# HTML & CSS Project: [Project Name]
+# HTML & CSS Project
 
 A modern, responsive web project built purely with **HTML5** and **CSS3**. This project demonstrates core front-end development skills including layout design, typography, and responsive web principles.
 
